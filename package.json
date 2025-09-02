@@ -1,7 +1,7 @@
 {
-  "name": "sahil_medicos",
+  "name": "prashant_medicos",
   "version": "1.0.0",
-  "description": "Sahil_Medicos rest api",
+  "description": "Prashant_Medicos rest api",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client \""
   },
   "keywords": [],
-  "author": "Sahil Sangtani",
+  "author": "Prashant Verma",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
@@ -27,6 +27,7 @@
     "morgan": "^1.10.0",
     "react-hot-toast": "^2.4.1",
     "react-icons": "^5.0.1",
+    "react-scripts": "^5.0.1",
     "slugify": "^1.6.6"
   }
 }
